@@ -30,5 +30,5 @@ jobs:
       uses: actions/upload-artifact@v2.1.3
       with:
         # Artifact name
-        name: VAC-Bypass-Loader.exe
-        path: D:\a\VAC-Bypass-Loader\VAC-Bypass-Loader\VAC-Bypass-Loader\Release\VAC-Bypass-Loader.exe
+        name: VAC-Bypass-Loader
+        path: **\VAC-Bypass-Loader.exe
