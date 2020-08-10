@@ -31,4 +31,4 @@ jobs:
       with:
         # Artifact name
         name: VAC-Bypass-Loader
-        path: VAC-Bypass-Loader\VAC-Bypass-Loader\Release\VAC-Bypass-Loader.exe
+        path: VAC-Bypass-Loader\VAC-Bypass-Loader\VAC-Bypass-Loader\Release\VAC-Bypass-Loader.exe
